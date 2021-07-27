@@ -1,4 +1,4 @@
-import numpy==1.20.3 as np
+import numpy as np==1.20.3
 import pandas==1.2.4 as pd
 import matplotlib.pyplot==3.4.2 as plt
 import seaborn==0.11.1 as sns
